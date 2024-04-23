@@ -40,6 +40,21 @@ nav{
     }
 }
 
+@media screen and(min-height:2000px){
+    
+    nav{
+        heigth:18%;
+        width:20%;
+        padding-left:5%；
+    }
+    nav li{
+        width:90%;
+        padding:5% 0;
+    }
+    
+
+}
+
 nav ul{
     height: calc(100% - 25px);
     padding-left: 0;
@@ -160,6 +175,11 @@ main{
     height: 50%;
     margin-top: 2%;
 }
+
+@media screen and(min-height:2000px){
+    container{
+        font-size:50pt;
+        
 
 .moreBox img{
     float: left;

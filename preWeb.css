@@ -43,7 +43,7 @@ nav{
 @media screen and(min-height:2000px){
     
     nav{
-        heigth:18%;
+        heigth:18vh;
         width:20%;
         padding-left:5%；
     }

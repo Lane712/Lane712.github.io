@@ -1,1 +1,1 @@
-Welcome<link href="preWeb.html">
+<a href="preWeb.html">Welcome</a>

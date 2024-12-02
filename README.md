@@ -1,1 +1,3 @@
-<a href='preWeb.html'>Welcome</a>
+Lnahqis
+---
+[welcome](preWeb.html)
